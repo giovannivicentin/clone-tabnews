@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto com o objetivo didático feito pelo https://curso.dev
+Implementação do https://www.tabnews.com.br para o https://curso.dev
+ 
